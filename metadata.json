@@ -1,0 +1,7 @@
+{
+  "name": "First Class Laundry",
+  "description": "Premium laundry and dry cleaning services in Cheras, Selangor. Open 24/7 with pickup and delivery options.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
